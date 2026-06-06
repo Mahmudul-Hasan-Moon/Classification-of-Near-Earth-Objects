@@ -1,4 +1,4 @@
-# Asteroid Hazard Prediction Using Machine Learning, Deep Learning, and Explainable AI
+# Asteroids, Algorithms, and Explainability: A Unified Framework for Efficient Classification of Near-Earth Objects
 
 ## Overview
 
