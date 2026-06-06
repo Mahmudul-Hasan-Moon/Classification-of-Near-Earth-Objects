@@ -2,13 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of a comprehensive framework for asteroid hazard prediction using machine learning, deep learning, and explainable artificial intelligence (XAI) techniques.
-
-The objective of this study is to accurately classify potentially hazardous asteroids (PHAs) using orbital and physical characteristics while ensuring model interpretability through multiple explainability methods.
-
-The framework evaluates several state-of-the-art models and investigates the impact of class imbalance handling techniques on prediction performance.
-
----
+This repository contains the implementation of a comprehensive framework for asteroid based analsis using machine learning, deep learning, and explainable artificial intelligence (XAI) techniques. The objective of this study is to accurately classify potentially hazardous asteroids (PHAs) using orbital and physical characteristics while ensuring model interpretability through multiple explainability methods. The framework evaluates several state-of-the-art models and investigates the impact of class imbalance handling techniques on prediction performance.
 
 ## Key Features
 
@@ -257,7 +251,7 @@ plotly
 
 ## License
 
-This project is released under the MIT License.
+The code is made available to support the reproducibility of the results presented in the associated manuscript. Licensing terms will be determined upon publication.
 
 ---
 
